@@ -1,0 +1,7 @@
+numpy 
+pandas
+nltk 
+fastapi
+uvicorn
+scikit-learn==1.2.2
+pickleshare==0.7.5
